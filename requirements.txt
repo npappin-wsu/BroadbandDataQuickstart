@@ -1,2 +1,5 @@
 bdcdata
 h3pandas
+folium
+matplotlib
+mapclassify
