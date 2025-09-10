@@ -3,3 +3,4 @@ h3pandas
 folium
 matplotlib
 mapclassify
+pygris
