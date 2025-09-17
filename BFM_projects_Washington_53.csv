@@ -1,0 +1,79 @@
+geography_type,geography_id,geography_desc,geography_desc_full,project_id,project_name,program_id,program_name,agency_id,location_count,agency_name,agency_name_abbr,total_location_count
+state,53,"Washington","Washington",13233,"Ziply Fiber Northwest, LLC - WA - Gigabit",24,"Rural Digital Opportunity Fund",1,20605,"Federal Communications Commission","FCC",20605
+state,53,"Washington","Washington",11484,"Telephone & Data Systems, incl. UScellular - WA",35,"Enhanced Alternative Connect America Cost Model",1,14205,"Federal Communications Commission","FCC",14205
+state,53,"Washington","Washington",2600,"Commerce Washington State Department of",11,"Broadband Infrastructure Program",5,7478,"NTIA","NTIA",7478
+state,53,"Washington","Washington",13333,"Charter Fiberlink WA-CCVII, LLC - WA - Gigabit",24,"Rural Digital Opportunity Fund",1,4247,"Federal Communications Commission","FCC",4247
+state,53,"Washington","Washington",11481,"Western Elite Incorporated Services - WA",35,"Enhanced Alternative Connect America Cost Model",1,3818,"Federal Communications Commission","FCC",3818
+state,53,"Washington","Washington",13353,"Commnet Wireless, LLC - WA - Above Baseline",24,"Rural Digital Opportunity Fund",1,2908,"Federal Communications Commission","FCC",2908
+state,53,"Washington","Washington",6673,"Public Utility District 1 of Lewis County-WA1706-A73",6,"RURAL ECONNECTIVITY PROGRAM",3,2647,"Rural Utilities Service","RUS",2647
+state,53,"Washington","Washington",6644,"Home Telephone Company, Inc.-OR1707-A71",6,"RURAL ECONNECTIVITY PROGRAM",3,2485,"Rural Utilities Service","RUS",2485
+state,53,"Washington","Washington",13695,"Lummi Nation",27,"Tribal Broadband Connectivity Program NOFO 1",5,2084,"NTIA","NTIA",2084
+state,53,"Washington","Washington",14659,"Central Stevens County Hybrid Broadband",18,"Capital Projects Fund",4,1866,"US Department of Treasury","Treasury",1866
+state,53,"Washington","Washington",14650,"Bunker Creek Broadband Infrastructure",18,"Capital Projects Fund",4,1528,"US Department of Treasury","Treasury",1528
+state,53,"Washington","Washington",14527,"Swinomish Indian Tribal Community",41,"Tribal Broadband Connectivity Program NOFO 2",5,1467,"NTIA","NTIA",1467
+state,53,"Washington","Washington",15062,"Inland Cellular LLC - WA - Above Baseline",24,"Rural Digital Opportunity Fund",1,1456,"Federal Communications Commission","FCC",1456
+state,53,"Washington","Washington",14655,"Okanogan County Connects",18,"Capital Projects Fund",4,1449,"US Department of Treasury","Treasury",1449
+state,53,"Washington","Washington",14640,"Dayton Community Broadband",18,"Capital Projects Fund",4,1407,"US Department of Treasury","Treasury",1407
+state,53,"Washington","Washington",2869,"Kalama Telephone Company  -WA1703-A73",6,"RURAL ECONNECTIVITY PROGRAM",3,1362,"Rural Utilities Service","RUS",1362
+state,53,"Washington","Washington",14528,"Tulalip Tribes of Washington",41,"Tribal Broadband Connectivity Program NOFO 2",5,1314,"NTIA","NTIA",1314
+state,53,"Washington","Washington",11485,"Wahkiakum West Inc. - WA",35,"Enhanced Alternative Connect America Cost Model",1,1213,"Federal Communications Commission","FCC",1213
+state,53,"Washington","Washington",14651,"'Connecting the Mineral, Elbe, & Ashford Communities'",18,"Capital Projects Fund",4,1159,"US Department of Treasury","Treasury",1159
+state,53,"Washington","Washington",14662,"Point Roberts Fiber-to-the-home Networks",18,"Capital Projects Fund",4,1080,"US Department of Treasury","Treasury",1080
+state,53,"Washington","Washington",14654,"Connecting the Greater Vader Community",18,"Capital Projects Fund",4,993,"US Department of Treasury","Treasury",993
+state,53,"Washington","Washington",13789,"Hood Canal Telephone Co., Inc.-WA0541-F42",12,"TELEPHONE LOAN PROGRAM",3,968,"Rural Utilities Service","RUS",968
+state,53,"Washington","Washington",14645,"Walla Walla Rural County Install",18,"Capital Projects Fund",4,953,"US Department of Treasury","Treasury",953
+state,53,"Washington","Washington",6675,"Public Utility District No. 1 of Jefferson County, Washington-WA1705-A71",6,"RURAL ECONNECTIVITY PROGRAM",3,942,"Rural Utilities Service","RUS",942
+state,53,"Washington","Washington",6674,"PUBLIC UTILITY DISTRICT 1 OF OKANOGAN CO-WA1707-A73",6,"RURAL ECONNECTIVITY PROGRAM",3,916,"Rural Utilities Service","RUS",916
+state,53,"Washington","Washington",13179,"Confederated Tribes of the Colville Reservation",27,"Tribal Broadband Connectivity Program NOFO 1",5,788,"NTIA","NTIA",788
+state,53,"Washington","Washington",11483,"St. John Telephone, Inc. - WA",35,"Enhanced Alternative Connect America Cost Model",1,784,"Federal Communications Commission","FCC",784
+state,53,"Washington","Washington",11482,"Pioneer Telephone Holding Company - WA",35,"Enhanced Alternative Connect America Cost Model",1,759,"Federal Communications Commission","FCC",759
+state,53,"Washington","Washington",13768,"Public Utility District 1 of Lewis County-WA1411-B23",10,"COMMUNITY CONNECT GRANT PROGRAM",3,746,"Rural Utilities Service","RUS",746
+state,53,"Washington","Washington",14641,"Whatcom County Rural Broadband",18,"Capital Projects Fund",4,729,"US Department of Treasury","Treasury",729
+state,53,"Washington","Washington",14635,"Nisqually Reservation Open Access Network Phase 1",18,"Capital Projects Fund",4,729,"US Department of Treasury","Treasury",729
+state,53,"Washington","Washington",14664,"Kittitas County Broadband 2022",18,"Capital Projects Fund",4,676,"US Department of Treasury","Treasury",676
+state,53,"Washington","Washington",14666,"Cloquallum Communities Rural Fiber Expansion",18,"Capital Projects Fund",4,660,"US Department of Treasury","Treasury",660
+state,53,"Washington","Washington",15108,"Inland Telephone Company-WA1709-A60",6,"RURAL ECONNECTIVITY PROGRAM",3,603,"Rural Utilities Service","RUS",603
+state,53,"Washington","Washington",14636,"'Almira, Creston and Harrington Broadband'",18,"Capital Projects Fund",4,592,"US Department of Treasury","Treasury",592
+state,53,"Washington","Washington",14665,"Yakima County Broadband 2022",18,"Capital Projects Fund",4,587,"US Department of Treasury","Treasury",587
+state,53,"Washington","Washington",14647,"Ariel to Cougar Fiber-to-the-home Networks",18,"Capital Projects Fund",4,578,"US Department of Treasury","Treasury",578
+state,53,"Washington","Washington",14657,"The Inbetweens Fiber Collaborations",18,"Capital Projects Fund",4,558,"US Department of Treasury","Treasury",558
+state,53,"Washington","Washington",14637,"Hintzville Fiber-to-the-home Networks",18,"Capital Projects Fund",4,514,"US Department of Treasury","Treasury",514
+state,53,"Washington","Washington",13770,"SPOKANE REGIONAL BROADBAND DEVELOPMENT AUTHORITY BROADLINC-WA1412-A23",10,"COMMUNITY CONNECT GRANT PROGRAM",3,425,"Rural Utilities Service","RUS",425
+state,53,"Washington","Washington",14653,"Broadband Build Bay City to Nemah",18,"Capital Projects Fund",4,419,"US Department of Treasury","Treasury",419
+state,53,"Washington","Washington",2655,"Public Utility District 1 of Lewis County-WA1411-A23",10,"COMMUNITY CONNECT GRANT PROGRAM",3,331,"Rural Utilities Service","RUS",331
+state,53,"Washington","Washington",14638,"NW Clarkston Heights Fiber-to-the-home Networks",18,"Capital Projects Fund",4,326,"US Department of Treasury","Treasury",326
+state,53,"Washington","Washington",6643,"Hat Island Telephone Company-WA1704-A72",6,"RURAL ECONNECTIVITY PROGRAM",3,320,"Rural Utilities Service","RUS",320
+state,53,"Washington","Washington",13762,"FIBERCLOUD, INC-WA1413-A23",10,"COMMUNITY CONNECT GRANT PROGRAM",3,284,"Rural Utilities Service","RUS",284
+state,53,"Washington","Washington",14632,"Skykomish Broadband",18,"Capital Projects Fund",4,281,"US Department of Treasury","Treasury",281
+state,53,"Washington","Washington",14631,"Thorp and Edgemont Fiber-to-the-home Networks",18,"Capital Projects Fund",4,265,"US Department of Treasury","Treasury",265
+state,53,"Washington","Washington",15069,"Lower Elwha Klallam Tribe - Fiber",41,"Tribal Broadband Connectivity Program NOFO 2",5,232,"NTIA","NTIA",232
+state,53,"Washington","Washington",6613,"Spokane Tribe of Indians",27,"Tribal Broadband Connectivity Program NOFO 1",5,221,"NTIA","NTIA",221
+state,53,"Washington","Washington",13690,"Skokomish Indian Tribe",27,"Tribal Broadband Connectivity Program NOFO 1",5,213,"NTIA","NTIA",213
+state,53,"Washington","Washington",2654,"Whidbey Telephone Company-WA1410-A23",10,"COMMUNITY CONNECT GRANT PROGRAM",3,210,"Rural Utilities Service","RUS",210
+state,53,"Washington","Washington",2716,"Mason County Public Utility District No. 3-WA1701-A61",6,"RURAL ECONNECTIVITY PROGRAM",3,209,"Rural Utilities Service","RUS",209
+state,53,"Washington","Washington",14663,"Ziply Fiber in Duvall",18,"Capital Projects Fund",4,209,"US Department of Treasury","Treasury",209
+state,53,"Washington","Washington",14642,"'South Elma, Porter and Cedarville Broadband'",18,"Capital Projects Fund",4,196,"US Department of Treasury","Treasury",196
+state,53,"Washington","Washington",13347,"Columbia Energy, LLC - WA - Gigabit",24,"Rural Digital Opportunity Fund",1,194,"Federal Communications Commission","FCC",194
+state,53,"Washington","Washington",15067,"Makah Indian Tribe of the Makah Indian Reservation",41,"Tribal Broadband Connectivity Program NOFO 2",5,175,"NTIA","NTIA",175
+state,53,"Washington","Washington",14634,"Washtucna Fiber-to-the-Premise",18,"Capital Projects Fund",4,166,"US Department of Treasury","Treasury",166
+state,53,"Washington","Washington",11486,"Westgate Communications LLC - WA",35,"Enhanced Alternative Connect America Cost Model",1,154,"Federal Communications Commission","FCC",154
+state,53,"Washington","Washington",14652,"Clallam County Broadband",18,"Capital Projects Fund",4,149,"US Department of Treasury","Treasury",149
+state,53,"Washington","Washington",14257,"Confederated Tribes of the Colville Reservation-WA1708-A61",6,"RURAL ECONNECTIVITY PROGRAM",3,133,"Rural Utilities Service","RUS",133
+state,53,"Washington","Washington",14658,"Spokane Tribe HWY 231 Fiber-to-the-home Neetworks",18,"Capital Projects Fund",4,132,"US Department of Treasury","Treasury",132
+state,53,"Washington","Washington",14656,"Port of Whitman Fiber Networks",18,"Capital Projects Fund",4,108,"US Department of Treasury","Treasury",108
+state,53,"Washington","Washington",2856,"Whidbey Telephone Company-WA1702-A65",6,"RURAL ECONNECTIVITY PROGRAM",3,108,"Rural Utilities Service","RUS",108
+state,53,"Washington","Washington",14649,"Chehalis Reservation Broadband",18,"Capital Projects Fund",4,98,"US Department of Treasury","Treasury",98
+state,53,"Washington","Washington",14639,"Hood Canal - 101 Broadband",18,"Capital Projects Fund",4,82,"US Department of Treasury","Treasury",82
+state,53,"Washington","Washington",14648,"Larson Lane Fiber-to-the-home Networks",18,"Capital Projects Fund",4,81,"US Department of Treasury","Treasury",81
+state,53,"Washington","Washington",14633,"Discovery Bay East Fiber",18,"Capital Projects Fund",4,79,"US Department of Treasury","Treasury",79
+state,53,"Washington","Washington",14646,"Malden/Pine City Fiber-to-the-home Networks",18,"Capital Projects Fund",4,70,"US Department of Treasury","Treasury",70
+state,53,"Washington","Washington",14643,"Kitsap PUD PWB - Fiber to the Home",18,"Capital Projects Fund",4,65,"US Department of Treasury","Treasury",65
+state,53,"Washington","Washington",13689,"Port Gamble S'Klallam Tribe",27,"Tribal Broadband Connectivity Program NOFO 1",5,62,"NTIA","NTIA",62
+state,53,"Washington","Washington",6610,"Quileute Tribe of the Quileute Reservation",27,"Tribal Broadband Connectivity Program NOFO 1",5,58,"NTIA","NTIA",58
+state,53,"Washington","Washington",13691,"Upper Skagit Indian Tribe",27,"Tribal Broadband Connectivity Program NOFO 1",5,54,"NTIA","NTIA",54
+state,53,"Washington","Washington",14644,"Garfield County Fiber-to-the-home Networks",18,"Capital Projects Fund",4,49,"US Department of Treasury","Treasury",49
+state,53,"Washington","Washington",13688,"Nooksack Indian Tribe",27,"Tribal Broadband Connectivity Program NOFO 1",5,41,"NTIA","NTIA",41
+state,53,"Washington","Washington",15071,"Lower Elwha Klallam Tribe - Fixed Wireless",41,"Tribal Broadband Connectivity Program NOFO 2",5,33,"NTIA","NTIA",33
+state,53,"Washington","Washington",13687,"Makah Indian Tribe of the Makah Indian Reservation",27,"Tribal Broadband Connectivity Program NOFO 1",5,21,"NTIA","NTIA",21
+state,53,"Washington","Washington",11418,"Telephone & Data Systems, incl. UScellular - OR",35,"Enhanced Alternative Connect America Cost Model",1,7,"Federal Communications Commission","FCC",144
+state,53,"Washington","Washington",11252,"Western Elite Incorporated Services - ID",35,"Enhanced Alternative Connect America Cost Model",1,6,"Federal Communications Commission","FCC",651
