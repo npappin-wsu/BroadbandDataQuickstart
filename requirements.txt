@@ -5,3 +5,4 @@ matplotlib
 mapclassify
 pygris
 ndtguide
+awscli
